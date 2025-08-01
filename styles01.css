@@ -1,16 +1,16 @@
 body {
-       background-color: darkorchid);
+       background-color: lightblue);
    }
    h1 {
        background-color:lightseagreen;
-       color: Tomato;
+       color: yellow;
        text-align: center;
        border:3px solid Violet;
    }
   
    h2 {
-      color: yellow;
-      background-color:Gray;
+      color: orange;
+      background-color:beige;
       text-align: center;
       border:10px solid Violet;
    }
@@ -18,5 +18,5 @@ body {
    p {
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         font-size: 30px;
-        color: orange;
+        color: turquoise;
    }
